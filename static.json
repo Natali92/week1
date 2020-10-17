@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "nsec"
+      "X-Author": "nsec", 
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
