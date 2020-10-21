@@ -2,8 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "nsec", 
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plan" 
+      "Access-Control-Allow-Origin": "*" 
     }
   }
 }
