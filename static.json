@@ -6,7 +6,7 @@
       "Content-Type": "text/plan; charset=UTF-8"
     }
   }
+}
   function task(x) {
   return x.toUpperCase();
-}
 }
